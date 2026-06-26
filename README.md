@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Bao 👋
 
-<!--
-**trinhdangbao2018-ux/trinhdangbao2018-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Information Technology student at the University of South Florida, currently learning software development, web technologies, and computer systems.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Studying Information Technology at USF
+* 💻 Interested in software development and web applications
+* 🌱 Currently learning JavaScript, React, Git, and GitHub
+* 🚀 Building projects to improve my coding and problem-solving skills
+
+## Tech Stack
+
+* HTML / CSS
+* JavaScript
+* React
+* Node.js
+* Git & GitHub
+
+## Featured Projects
+
+* 
+* 
+* 
+
+## Contact
+
+* LinkedIn: https://www.linkedin.com/in/bao-trinh-dang/
+* Email: trinhdangbao2018@gmail.com
